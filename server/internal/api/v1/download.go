@@ -39,7 +39,7 @@ const (
         <key>PayloadOrganization</key>
         <string>ipashare</string>
         <key>PayloadDisplayName</key>
-        <string>获取UDID</string>
+        <string>取得手機職別碼</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
@@ -47,7 +47,7 @@ const (
         <key>PayloadIdentifier</key>
         <string>github.togettoyou.ipashare</string>
         <key>PayloadDescription</key>
-        <string>仅用于绑定设备UDID以便安装APP</string>
+        <string>只用於安裝IPA時綁定裝置</string>
         <key>PayloadType</key>
         <string>Profile Service</string>
     </dict>
